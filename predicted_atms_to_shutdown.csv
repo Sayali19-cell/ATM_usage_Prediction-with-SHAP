@@ -1,0 +1,783 @@
+ATM_ID,Location,Latitude,Longitude,Area_Type,City,Monthly_Transactions,Avg_Withdrawal_Amount,ATM_Status,Last_Used_Days_Ago,Shutdown_Label,Predicted_Shutdown
+ATM02331,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,2439,Active,2,1,1
+ATM06508,Yerwada,18.5626,73.877,Mixed,Pune,3791,2305,Active,82,1,1
+ATM09838,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3784,Active,18,1,1
+ATM04990,Aundh,18.5579,73.8077,Residential,Pune,1772,4317,Active,192,1,1
+ATM00790,Aundh,18.5579,73.8077,Commercial,Pune,0,2773,Active,31,1,1
+ATM03437,Yerwada,18.5626,73.877,Commercial,Pune,0,3111,Active,20,1,1
+ATM06632,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3515,Active,37,1,1
+ATM01894,Swargate,18.5018,73.8636,Commercial,Pune,950,2823,Active,88,1,1
+ATM03495,Swargate,18.5018,73.8636,Commercial,Pune,0,3472,Active,13,1,1
+ATM09839,Viman Nagar,18.5679,73.9143,Commercial,Pune,1035,4189,Active,136,1,1
+ATM04969,Camp,18.5167,73.8567,Residential,Pune,340,2967,Active,30,0,1
+ATM01481,Yerwada,18.5626,73.877,IT Hub,Pune,0,3217,Active,123,1,1
+ATM05911,Baner,18.559,73.7862,IT Hub,Pune,0,3278,Active,8,1,1
+ATM07926,Aundh,18.5579,73.8077,Residential,Pune,1642,4290,Active,107,1,1
+ATM06919,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,3387,Active,4,1,1
+ATM02591,Swargate,18.5018,73.8636,IT Hub,Pune,0,3396,Active,63,1,1
+ATM07414,Aundh,18.5579,73.8077,Residential,Pune,0,3799,Active,63,1,1
+ATM05548,Aundh,18.5579,73.8077,Mixed,Pune,0,4221,Active,32,1,1
+ATM05546,Shivaji Nagar,18.53,73.85,Residential,Pune,155,2510,Active,46,1,1
+ATM00670,Hadapsar,18.5089,73.9235,Mixed,Pune,0,3234,Active,54,1,1
+ATM09000,Swargate,18.5018,73.8636,Commercial,Pune,0,2554,Active,28,1,1
+ATM04630,Baner,18.559,73.7862,Mixed,Pune,1186,2543,Active,110,1,1
+ATM01875,Shivaji Nagar,18.53,73.85,Residential,Pune,0,1745,Active,1,1,1
+ATM09412,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,2964,Active,27,1,1
+ATM01177,Kothrud,18.5074,73.8077,Mixed,Pune,0,1700,Active,23,1,1
+ATM00834,Hinjewadi,18.5911,73.7389,Mixed,Pune,1385,2758,Active,137,1,1
+ATM07575,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,2656,Active,121,1,1
+ATM03533,Camp,18.5167,73.8567,Mixed,Pune,2196,1758,Active,67,1,1
+ATM06830,Baner,18.559,73.7862,Residential,Pune,0,3080,Active,0,1,1
+ATM02512,Camp,18.5167,73.8567,IT Hub,Pune,0,2076,Active,61,1,1
+ATM01556,Baner,18.559,73.7862,IT Hub,Pune,68,3564,Active,81,1,1
+ATM09495,Kothrud,18.5074,73.8077,Residential,Pune,0,3513,Active,25,1,1
+ATM00535,Hadapsar,18.5089,73.9235,Mixed,Pune,0,1661,Active,19,1,1
+ATM04002,Aundh,18.5579,73.8077,IT Hub,Pune,0,1946,Active,2,1,1
+ATM06817,Swargate,18.5018,73.8636,Residential,Pune,0,3300,Active,61,1,1
+ATM05067,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2594,Active,0,1,1
+ATM07325,Aundh,18.5579,73.8077,Residential,Pune,1483,2096,Active,65,1,1
+ATM09661,Camp,18.5167,73.8567,Mixed,Pune,1103,2469,Active,115,1,1
+ATM08323,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,3554,Active,12,1,1
+ATM01283,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,2154,Active,37,1,1
+ATM05585,Baner,18.559,73.7862,Mixed,Pune,0,1774,Active,42,1,1
+ATM00517,Yerwada,18.5626,73.877,IT Hub,Pune,43,2419,Active,17,1,1
+ATM02375,Swargate,18.5018,73.8636,Commercial,Pune,0,3131,Active,57,1,1
+ATM04356,Baner,18.559,73.7862,Commercial,Pune,275,3651,Active,17,0,1
+ATM03933,Shivaji Nagar,18.53,73.85,Residential,Pune,499,2713,Active,5,0,1
+ATM00130,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3601,Active,71,1,1
+ATM07407,Kothrud,18.5074,73.8077,Commercial,Pune,179,2905,Active,3,1,1
+ATM00506,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2154,Active,4,1,1
+ATM09350,Hinjewadi,18.5911,73.7389,IT Hub,Pune,421,4328,Active,12,0,1
+ATM07551,Kothrud,18.5074,73.8077,Mixed,Pune,130,3417,Active,50,1,1
+ATM07453,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2090,Active,131,1,1
+ATM07594,Aundh,18.5579,73.8077,Commercial,Pune,503,1590,Active,102,1,1
+ATM02370,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2347,Active,13,1,1
+ATM04902,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3482,Active,19,1,1
+ATM07312,Hadapsar,18.5089,73.9235,Commercial,Pune,334,3956,Active,3,0,1
+ATM00495,Hadapsar,18.5089,73.9235,Commercial,Pune,0,3832,Active,33,1,1
+ATM02467,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2809,Active,81,1,1
+ATM08498,Aundh,18.5579,73.8077,Commercial,Pune,0,2936,Active,142,1,1
+ATM00370,Baner,18.559,73.7862,Mixed,Pune,0,4109,Active,26,1,1
+ATM00177,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,3268,Active,27,1,1
+ATM06765,Camp,18.5167,73.8567,Mixed,Pune,0,2573,Active,4,1,1
+ATM03799,Kothrud,18.5074,73.8077,Residential,Pune,0,3590,Active,9,1,1
+ATM05532,Hinjewadi,18.5911,73.7389,IT Hub,Pune,361,2277,Active,150,1,1
+ATM09768,Camp,18.5167,73.8567,Residential,Pune,698,3652,Active,77,1,1
+ATM02560,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,4207,Active,32,1,1
+ATM02533,Viman Nagar,18.5679,73.9143,Mixed,Pune,38,2926,Active,0,1,1
+ATM08473,Baner,18.559,73.7862,Mixed,Pune,0,2166,Active,12,1,1
+ATM05000,Aundh,18.5579,73.8077,Residential,Pune,0,3845,Active,36,1,1
+ATM03854,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,3409,Active,21,1,1
+ATM07600,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2592,Active,1,1,1
+ATM07677,Swargate,18.5018,73.8636,Mixed,Pune,715,4006,Active,144,1,1
+ATM03616,Kothrud,18.5074,73.8077,Commercial,Pune,1511,2958,Active,72,1,1
+ATM06881,Yerwada,18.5626,73.877,Residential,Pune,2029,2204,Active,122,1,1
+ATM07061,Viman Nagar,18.5679,73.9143,Commercial,Pune,2290,2694,Active,225,1,1
+ATM02532,Aundh,18.5579,73.8077,IT Hub,Pune,0,2053,Active,7,1,1
+ATM01195,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3466,Active,90,1,1
+ATM08593,Baner,18.559,73.7862,Mixed,Pune,0,3100,Active,68,1,1
+ATM07009,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2788,Active,0,1,1
+ATM08233,Kothrud,18.5074,73.8077,Commercial,Pune,2880,3111,Active,64,1,1
+ATM02675,Aundh,18.5579,73.8077,Commercial,Pune,907,2117,Active,82,1,1
+ATM03204,Camp,18.5167,73.8567,Mixed,Pune,0,2569,Active,6,1,1
+ATM06710,Yerwada,18.5626,73.877,Residential,Pune,830,2669,Active,76,1,1
+ATM03466,Swargate,18.5018,73.8636,Mixed,Pune,0,4301,Active,7,1,1
+ATM00114,Swargate,18.5018,73.8636,Mixed,Pune,0,1682,Active,42,1,1
+ATM03712,Viman Nagar,18.5679,73.9143,Commercial,Pune,205,1073,Active,114,1,1
+ATM01392,Swargate,18.5018,73.8636,Mixed,Pune,0,2950,Active,10,1,1
+ATM08953,Hadapsar,18.5089,73.9235,IT Hub,Pune,216,3350,Active,11,0,1
+ATM00925,Yerwada,18.5626,73.877,Residential,Pune,0,2985,Active,8,1,1
+ATM06921,Yerwada,18.5626,73.877,Commercial,Pune,0,1420,Active,6,1,1
+ATM05116,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2214,Active,11,1,1
+ATM08956,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3067,Active,0,1,1
+ATM04579,Aundh,18.5579,73.8077,Mixed,Pune,0,3087,Active,28,1,1
+ATM03986,Yerwada,18.5626,73.877,Mixed,Pune,0,4857,Active,21,1,1
+ATM00300,Baner,18.559,73.7862,IT Hub,Pune,188,1470,Active,76,1,1
+ATM00627,Kothrud,18.5074,73.8077,Commercial,Pune,783,1038,Active,36,0,1
+ATM02557,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3542,Active,11,1,1
+ATM01385,Swargate,18.5018,73.8636,Commercial,Pune,98,3631,Active,29,1,1
+ATM07028,Swargate,18.5018,73.8636,Commercial,Pune,0,3396,Active,60,1,1
+ATM02849,Yerwada,18.5626,73.877,Residential,Pune,3427,2498,Active,52,0,1
+ATM03846,Kothrud,18.5074,73.8077,IT Hub,Pune,0,5071,Active,53,1,1
+ATM06796,Hinjewadi,18.5911,73.7389,Residential,Pune,3199,3570,Active,91,1,1
+ATM01206,Aundh,18.5579,73.8077,Commercial,Pune,0,3720,Active,28,1,1
+ATM03960,Baner,18.559,73.7862,Residential,Pune,397,3541,Active,131,1,1
+ATM01393,Aundh,18.5579,73.8077,Mixed,Pune,2824,1626,Active,89,1,1
+ATM08388,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,3712,Active,5,1,1
+ATM07354,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,1917,Active,4,1,1
+ATM04341,Aundh,18.5579,73.8077,Mixed,Pune,699,4686,Active,16,0,1
+ATM02543,Swargate,18.5018,73.8636,Mixed,Pune,0,1957,Active,7,1,1
+ATM08564,Kothrud,18.5074,73.8077,Residential,Pune,1236,3094,Active,75,1,1
+ATM03077,Shivaji Nagar,18.53,73.85,Commercial,Pune,1078,3128,Active,229,1,1
+ATM04945,Baner,18.559,73.7862,IT Hub,Pune,187,2847,Active,88,1,1
+ATM05149,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2759,Active,1,1,1
+ATM08976,Baner,18.559,73.7862,IT Hub,Pune,0,3288,Active,13,1,1
+ATM08406,Viman Nagar,18.5679,73.9143,IT Hub,Pune,1111,3556,Active,105,1,1
+ATM06959,Camp,18.5167,73.8567,Commercial,Pune,2461,3652,Active,135,1,1
+ATM08067,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2137,Active,5,1,1
+ATM08522,Baner,18.559,73.7862,Mixed,Pune,0,2022,Active,30,1,1
+ATM06266,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3976,Active,2,1,1
+ATM06177,Shivaji Nagar,18.53,73.85,IT Hub,Pune,169,2620,Active,3,1,1
+ATM01343,Hadapsar,18.5089,73.9235,Mixed,Pune,0,3568,Active,54,1,1
+ATM06858,Aundh,18.5579,73.8077,Commercial,Pune,0,2536,Active,36,1,1
+ATM09136,Camp,18.5167,73.8567,Residential,Pune,0,3309,Active,21,1,1
+ATM08546,Yerwada,18.5626,73.877,IT Hub,Pune,0,2178,Active,11,1,1
+ATM01211,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2066,Active,50,1,1
+ATM00940,Kothrud,18.5074,73.8077,Residential,Pune,0,2313,Active,72,1,1
+ATM02807,Aundh,18.5579,73.8077,Mixed,Pune,0,1585,Active,12,1,1
+ATM03642,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2709,Active,37,1,1
+ATM00162,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,2626,Active,3,1,1
+ATM06699,Aundh,18.5579,73.8077,Mixed,Pune,15,2859,Active,76,1,1
+ATM06899,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2621,Active,24,1,1
+ATM05109,Kothrud,18.5074,73.8077,IT Hub,Pune,0,2658,Active,1,1,1
+ATM04329,Swargate,18.5018,73.8636,Residential,Pune,0,3995,Active,14,1,1
+ATM02651,Viman Nagar,18.5679,73.9143,Commercial,Pune,497,2738,Active,79,1,1
+ATM05187,Baner,18.559,73.7862,IT Hub,Pune,292,3736,Active,62,1,1
+ATM01857,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,3513,Active,13,1,1
+ATM08173,Aundh,18.5579,73.8077,Residential,Pune,0,3247,Active,32,1,1
+ATM06771,Camp,18.5167,73.8567,Residential,Pune,1780,3550,Active,135,1,1
+ATM04788,Swargate,18.5018,73.8636,IT Hub,Pune,0,3091,Active,30,1,1
+ATM07016,Camp,18.5167,73.8567,Residential,Pune,99,3809,Active,35,1,1
+ATM06165,Yerwada,18.5626,73.877,Commercial,Pune,0,1676,Active,3,1,1
+ATM06207,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,2200,Active,60,1,1
+ATM06111,Camp,18.5167,73.8567,Commercial,Pune,0,3432,Active,3,1,1
+ATM03033,Aundh,18.5579,73.8077,Residential,Pune,0,2820,Active,1,1,1
+ATM09378,Camp,18.5167,73.8567,Commercial,Pune,644,1707,Active,107,1,1
+ATM05006,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2362,Active,45,1,1
+ATM01076,Viman Nagar,18.5679,73.9143,IT Hub,Pune,609,4127,Active,134,1,1
+ATM08985,Kothrud,18.5074,73.8077,IT Hub,Pune,0,2610,Active,14,1,1
+ATM01155,Baner,18.559,73.7862,Residential,Pune,0,2838,Active,14,1,1
+ATM07852,Camp,18.5167,73.8567,Residential,Pune,778,1672,Active,101,1,1
+ATM04805,Yerwada,18.5626,73.877,IT Hub,Pune,0,3003,Active,17,1,1
+ATM06162,Yerwada,18.5626,73.877,Commercial,Pune,813,4785,Active,1,0,1
+ATM08128,Hadapsar,18.5089,73.9235,Residential,Pune,0,4510,Active,21,1,1
+ATM06001,Swargate,18.5018,73.8636,Mixed,Pune,0,4063,Active,9,1,1
+ATM07597,Kothrud,18.5074,73.8077,Mixed,Pune,17,3075,Active,8,1,1
+ATM01038,Baner,18.559,73.7862,Commercial,Pune,0,551,Active,9,1,1
+ATM06167,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3589,Active,8,1,1
+ATM07934,Baner,18.559,73.7862,Commercial,Pune,0,3130,Active,16,1,1
+ATM09131,Kothrud,18.5074,73.8077,Commercial,Pune,55,2924,Active,75,1,1
+ATM01280,Hadapsar,18.5089,73.9235,Residential,Pune,587,1637,Active,121,1,1
+ATM02549,Aundh,18.5579,73.8077,IT Hub,Pune,0,4837,Active,26,1,1
+ATM09904,Hadapsar,18.5089,73.9235,IT Hub,Pune,223,1943,Active,39,0,1
+ATM02713,Swargate,18.5018,73.8636,Commercial,Pune,0,2275,Active,23,1,1
+ATM09292,Aundh,18.5579,73.8077,Commercial,Pune,105,3196,Active,34,1,1
+ATM04786,Hadapsar,18.5089,73.9235,IT Hub,Pune,2221,2558,Active,95,1,1
+ATM01859,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3058,Active,2,1,1
+ATM06112,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,3377,Active,10,1,1
+ATM05930,Kothrud,18.5074,73.8077,Commercial,Pune,0,2896,Active,87,1,1
+ATM07862,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,2489,Active,24,1,1
+ATM02952,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,2371,Active,0,1,1
+ATM06418,Camp,18.5167,73.8567,Mixed,Pune,2100,4621,Active,100,1,1
+ATM02608,Kothrud,18.5074,73.8077,Residential,Pune,0,3307,Active,3,1,1
+ATM08224,Hinjewadi,18.5911,73.7389,IT Hub,Pune,3449,1373,Active,80,1,1
+ATM03771,Hadapsar,18.5089,73.9235,Commercial,Pune,2529,3167,Active,105,1,1
+ATM09337,Camp,18.5167,73.8567,IT Hub,Pune,1419,3167,Active,83,1,1
+ATM09749,Yerwada,18.5626,73.877,Mixed,Pune,0,3922,Active,14,1,1
+ATM02081,Hadapsar,18.5089,73.9235,Mixed,Pune,1583,3946,Active,92,1,1
+ATM02539,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3886,Active,39,1,1
+ATM00947,Hadapsar,18.5089,73.9235,IT Hub,Pune,318,2862,Active,1,0,1
+ATM07901,Hinjewadi,18.5911,73.7389,IT Hub,Pune,161,2738,Active,39,1,1
+ATM04014,Baner,18.559,73.7862,Residential,Pune,0,4375,Active,38,1,1
+ATM04083,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,2179,Active,15,1,1
+ATM09628,Baner,18.559,73.7862,Residential,Pune,1941,2077,Active,197,1,1
+ATM06598,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2654,Active,47,1,1
+ATM02379,Yerwada,18.5626,73.877,Commercial,Pune,0,2740,Active,21,1,1
+ATM07516,Hadapsar,18.5089,73.9235,Commercial,Pune,0,3172,Active,15,1,1
+ATM01591,Swargate,18.5018,73.8636,Mixed,Pune,3242,3305,Active,137,1,1
+ATM02155,Kothrud,18.5074,73.8077,Mixed,Pune,2535,2330,Active,94,1,1
+ATM01506,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,2294,Active,27,1,1
+ATM04719,Aundh,18.5579,73.8077,Commercial,Pune,1288,3591,Active,71,1,1
+ATM09598,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3386,Active,33,1,1
+ATM02049,Camp,18.5167,73.8567,Residential,Pune,1828,3306,Active,102,1,1
+ATM03166,Aundh,18.5579,73.8077,Residential,Pune,526,2928,Active,75,1,1
+ATM00943,Aundh,18.5579,73.8077,IT Hub,Pune,788,3999,Active,109,1,1
+ATM09071,Baner,18.559,73.7862,Commercial,Pune,0,2866,Active,22,1,1
+ATM09775,Camp,18.5167,73.8567,Commercial,Pune,0,3429,Active,43,1,1
+ATM01947,Kothrud,18.5074,73.8077,Commercial,Pune,0,3171,Active,81,1,1
+ATM03450,Baner,18.559,73.7862,IT Hub,Pune,86,3490,Active,55,1,1
+ATM09566,Camp,18.5167,73.8567,Mixed,Pune,0,4807,Active,35,1,1
+ATM05995,Hadapsar,18.5089,73.9235,IT Hub,Pune,294,2291,Active,66,1,1
+ATM04467,Aundh,18.5579,73.8077,IT Hub,Pune,2542,2299,Active,60,0,1
+ATM03755,Camp,18.5167,73.8567,Commercial,Pune,1943,1880,Active,88,1,1
+ATM00836,Aundh,18.5579,73.8077,Commercial,Pune,0,2766,Active,97,1,1
+ATM04505,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,2153,Active,36,1,1
+ATM05381,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2096,Active,61,1,1
+ATM00643,Aundh,18.5579,73.8077,Commercial,Pune,1426,3481,Active,79,1,1
+ATM07380,Baner,18.559,73.7862,IT Hub,Pune,0,4935,Active,99,1,1
+ATM06232,Yerwada,18.5626,73.877,Mixed,Pune,2089,2476,Active,121,1,1
+ATM09353,Aundh,18.5579,73.8077,IT Hub,Pune,2803,2309,Active,85,1,1
+ATM03988,Baner,18.559,73.7862,Residential,Pune,0,3017,Active,0,1,1
+ATM07510,Baner,18.559,73.7862,Commercial,Pune,0,2401,Active,3,1,1
+ATM04909,Hadapsar,18.5089,73.9235,Commercial,Pune,1075,3608,Active,91,1,1
+ATM05864,Hadapsar,18.5089,73.9235,IT Hub,Pune,12,2698,Active,43,1,1
+ATM03584,Shivaji Nagar,18.53,73.85,Residential,Pune,484,2358,Active,64,1,1
+ATM06104,Kothrud,18.5074,73.8077,Commercial,Pune,0,4754,Active,19,1,1
+ATM01438,Swargate,18.5018,73.8636,IT Hub,Pune,0,2903,Active,5,1,1
+ATM05809,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2024,Active,11,1,1
+ATM04607,Viman Nagar,18.5679,73.9143,IT Hub,Pune,2824,2683,Active,75,1,1
+ATM01293,Hadapsar,18.5089,73.9235,Commercial,Pune,0,3133,Active,10,1,1
+ATM01838,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3990,Active,29,1,1
+ATM08700,Yerwada,18.5626,73.877,IT Hub,Pune,0,2388,Active,58,1,1
+ATM04600,Swargate,18.5018,73.8636,Mixed,Pune,1964,1990,Active,70,1,1
+ATM07511,Aundh,18.5579,73.8077,Mixed,Pune,0,3517,Active,7,1,1
+ATM06746,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,6402,Active,4,1,1
+ATM05603,Yerwada,18.5626,73.877,Commercial,Pune,315,3369,Active,8,0,1
+ATM05283,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,1885,Active,44,1,1
+ATM04558,Baner,18.559,73.7862,Mixed,Pune,0,2401,Active,2,1,1
+ATM02858,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3947,Active,14,1,1
+ATM04911,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,3456,Active,25,1,1
+ATM03167,Shivaji Nagar,18.53,73.85,Commercial,Pune,1864,3053,Active,58,0,1
+ATM00344,Swargate,18.5018,73.8636,Mixed,Pune,393,3072,Active,68,1,1
+ATM04760,Camp,18.5167,73.8567,Mixed,Pune,0,2075,Active,22,1,1
+ATM08410,Viman Nagar,18.5679,73.9143,Commercial,Pune,271,3437,Active,1,0,1
+ATM08551,Yerwada,18.5626,73.877,Residential,Pune,0,2489,Active,4,1,1
+ATM01660,Camp,18.5167,73.8567,Commercial,Pune,159,2772,Active,12,1,1
+ATM02207,Yerwada,18.5626,73.877,Mixed,Pune,0,1736,Active,5,1,1
+ATM02691,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3098,Active,53,1,1
+ATM06529,Baner,18.559,73.7862,Commercial,Pune,0,3441,Active,104,1,1
+ATM07127,Hinjewadi,18.5911,73.7389,IT Hub,Pune,2465,3325,Active,112,1,1
+ATM05270,Baner,18.559,73.7862,Mixed,Pune,0,3478,Active,39,1,1
+ATM06110,Aundh,18.5579,73.8077,IT Hub,Pune,0,2677,Active,44,1,1
+ATM02118,Shivaji Nagar,18.53,73.85,Residential,Pune,717,3380,Active,102,1,1
+ATM02307,Kothrud,18.5074,73.8077,Residential,Pune,0,3193,Active,18,1,1
+ATM09722,Hinjewadi,18.5911,73.7389,Commercial,Pune,19,2781,Active,103,1,1
+ATM06161,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,3515,Active,2,1,1
+ATM00255,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2821,Active,24,1,1
+ATM02109,Swargate,18.5018,73.8636,IT Hub,Pune,1166,2958,Active,89,1,1
+ATM08227,Yerwada,18.5626,73.877,IT Hub,Pune,0,2648,Active,3,1,1
+ATM00895,Hadapsar,18.5089,73.9235,Mixed,Pune,111,2791,Active,6,1,1
+ATM05051,Swargate,18.5018,73.8636,IT Hub,Pune,0,3498,Active,12,1,1
+ATM06117,Baner,18.559,73.7862,Residential,Pune,0,3171,Active,33,1,1
+ATM03020,Camp,18.5167,73.8567,IT Hub,Pune,2881,3112,Active,73,1,1
+ATM01741,Yerwada,18.5626,73.877,IT Hub,Pune,300,3412,Active,13,0,1
+ATM00138,Aundh,18.5579,73.8077,Mixed,Pune,0,2529,Active,36,1,1
+ATM09684,Yerwada,18.5626,73.877,Mixed,Pune,0,2366,Active,0,1,1
+ATM01275,Shivaji Nagar,18.53,73.85,Residential,Pune,0,1930,Active,3,1,1
+ATM08126,Hinjewadi,18.5911,73.7389,Mixed,Pune,157,2086,Active,132,1,1
+ATM04881,Yerwada,18.5626,73.877,IT Hub,Pune,0,2649,Active,11,1,1
+ATM08482,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3203,Active,89,1,1
+ATM01888,Camp,18.5167,73.8567,IT Hub,Pune,297,4582,Active,22,0,1
+ATM01983,Shivaji Nagar,18.53,73.85,IT Hub,Pune,213,3537,Active,58,0,1
+ATM07563,Swargate,18.5018,73.8636,Residential,Pune,0,2672,Active,54,1,1
+ATM03680,Aundh,18.5579,73.8077,Mixed,Pune,2404,1036,Active,107,1,1
+ATM09113,Baner,18.559,73.7862,IT Hub,Pune,389,3719,Active,4,0,1
+ATM00562,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,2103,Active,16,1,1
+ATM03691,Kothrud,18.5074,73.8077,Residential,Pune,241,3324,Active,16,0,1
+ATM00232,Aundh,18.5579,73.8077,Commercial,Pune,314,4063,Active,8,0,1
+ATM07071,Aundh,18.5579,73.8077,Mixed,Pune,1498,3798,Active,91,1,1
+ATM02123,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2324,Active,0,1,1
+ATM07790,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,2614,Active,52,1,1
+ATM04679,Yerwada,18.5626,73.877,Residential,Pune,150,2475,Active,0,1,1
+ATM06687,Yerwada,18.5626,73.877,IT Hub,Pune,449,1521,Active,34,0,1
+ATM04660,Yerwada,18.5626,73.877,IT Hub,Pune,0,3756,Active,14,1,1
+ATM06726,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3542,Active,34,1,1
+ATM06732,Camp,18.5167,73.8567,IT Hub,Pune,0,2969,Active,12,1,1
+ATM07812,Baner,18.559,73.7862,Commercial,Pune,105,2100,Active,18,1,1
+ATM09914,Hinjewadi,18.5911,73.7389,IT Hub,Pune,167,2702,Active,71,1,1
+ATM08414,Yerwada,18.5626,73.877,IT Hub,Pune,0,2827,Active,8,1,1
+ATM03312,Kothrud,18.5074,73.8077,Commercial,Pune,0,3560,Active,52,1,1
+ATM00980,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3935,Active,14,1,1
+ATM07819,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3085,Active,47,1,1
+ATM01674,Viman Nagar,18.5679,73.9143,Residential,Pune,0,3553,Active,20,1,1
+ATM06884,Camp,18.5167,73.8567,Commercial,Pune,0,2773,Active,0,1,1
+ATM05814,Swargate,18.5018,73.8636,Residential,Pune,0,3508,Active,44,1,1
+ATM09751,Hadapsar,18.5089,73.9235,Mixed,Pune,1899,4100,Active,140,1,1
+ATM09760,Camp,18.5167,73.8567,Mixed,Pune,0,4358,Active,64,1,1
+ATM00361,Kothrud,18.5074,73.8077,Mixed,Pune,0,2494,Active,50,1,1
+ATM02041,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2749,Active,16,1,1
+ATM01352,Hadapsar,18.5089,73.9235,Mixed,Pune,434,3400,Active,19,0,1
+ATM09715,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,3971,Active,47,1,1
+ATM05646,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3579,Active,9,1,1
+ATM00340,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2503,Active,74,1,1
+ATM00949,Baner,18.559,73.7862,Commercial,Pune,1706,2848,Active,160,1,1
+ATM08676,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3674,Active,30,1,1
+ATM05033,Kothrud,18.5074,73.8077,Commercial,Pune,0,3697,Active,48,1,1
+ATM08656,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,1998,Active,101,1,1
+ATM04620,Camp,18.5167,73.8567,Commercial,Pune,0,4142,Active,11,1,1
+ATM00335,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,1460,Active,24,1,1
+ATM09496,Aundh,18.5579,73.8077,IT Hub,Pune,0,2907,Active,28,1,1
+ATM07895,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,3532,Active,25,1,1
+ATM06838,Swargate,18.5018,73.8636,Residential,Pune,0,3139,Active,108,1,1
+ATM04266,Yerwada,18.5626,73.877,Commercial,Pune,0,3765,Active,45,1,1
+ATM07037,Camp,18.5167,73.8567,Commercial,Pune,0,2487,Active,34,1,1
+ATM03648,Baner,18.559,73.7862,Mixed,Pune,821,4374,Active,94,1,1
+ATM04052,Shivaji Nagar,18.53,73.85,Residential,Pune,1822,3143,Active,80,1,1
+ATM07780,Shivaji Nagar,18.53,73.85,Commercial,Pune,304,2827,Active,63,1,1
+ATM08152,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,3131,Active,2,1,1
+ATM03557,Camp,18.5167,73.8567,Commercial,Pune,0,3028,Active,4,1,1
+ATM07047,Yerwada,18.5626,73.877,Mixed,Pune,0,2969,Active,8,1,1
+ATM00363,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2389,Active,3,1,1
+ATM05941,Camp,18.5167,73.8567,Mixed,Pune,0,2417,Active,6,1,1
+ATM07246,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,1567,Active,35,1,1
+ATM09602,Yerwada,18.5626,73.877,IT Hub,Pune,2059,3169,Active,126,1,1
+ATM05970,Kothrud,18.5074,73.8077,Commercial,Pune,1334,3708,Active,142,1,1
+ATM01238,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2773,Active,65,1,1
+ATM05846,Camp,18.5167,73.8567,Commercial,Pune,3933,3271,Active,161,1,1
+ATM07122,Kothrud,18.5074,73.8077,Mixed,Pune,484,2073,Active,43,0,1
+ATM05192,Kothrud,18.5074,73.8077,Mixed,Pune,747,4190,Active,82,1,1
+ATM01928,Viman Nagar,18.5679,73.9143,Residential,Pune,0,1373,Active,20,1,1
+ATM02670,Yerwada,18.5626,73.877,Commercial,Pune,0,3211,Active,7,1,1
+ATM01714,Kothrud,18.5074,73.8077,Residential,Pune,0,5062,Active,8,1,1
+ATM01515,Hinjewadi,18.5911,73.7389,IT Hub,Pune,105,4973,Active,57,1,1
+ATM05189,Aundh,18.5579,73.8077,Residential,Pune,0,2810,Active,21,1,1
+ATM04240,Baner,18.559,73.7862,Residential,Pune,645,4131,Active,7,0,1
+ATM02439,Kothrud,18.5074,73.8077,Commercial,Pune,151,2565,Active,42,1,1
+ATM08904,Kothrud,18.5074,73.8077,Residential,Pune,0,2559,Active,1,1,1
+ATM01447,Hadapsar,18.5089,73.9235,Commercial,Pune,342,3582,Active,183,1,1
+ATM09414,Viman Nagar,18.5679,73.9143,Residential,Pune,670,4101,Active,94,1,1
+ATM00716,Swargate,18.5018,73.8636,Residential,Pune,2664,4299,Active,85,1,1
+ATM09705,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3379,Active,25,1,1
+ATM05897,Kothrud,18.5074,73.8077,Residential,Pune,2999,3400,Active,81,1,1
+ATM01127,Baner,18.559,73.7862,Residential,Pune,984,3909,Active,87,1,1
+ATM01450,Viman Nagar,18.5679,73.9143,Residential,Pune,0,2965,Active,30,1,1
+ATM01780,Hadapsar,18.5089,73.9235,Residential,Pune,0,2928,Active,8,1,1
+ATM03284,Yerwada,18.5626,73.877,Residential,Pune,0,3300,Active,15,1,1
+ATM06769,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2356,Active,10,1,1
+ATM05127,Aundh,18.5579,73.8077,Mixed,Pune,0,500,Active,3,1,1
+ATM07035,Camp,18.5167,73.8567,Commercial,Pune,0,3548,Active,3,1,1
+ATM01191,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2164,Active,18,1,1
+ATM00507,Yerwada,18.5626,73.877,Mixed,Pune,103,3218,Active,29,1,1
+ATM09964,Hadapsar,18.5089,73.9235,Residential,Pune,0,3039,Active,73,1,1
+ATM05393,Swargate,18.5018,73.8636,Mixed,Pune,1104,3322,Active,80,1,1
+ATM07429,Aundh,18.5579,73.8077,Commercial,Pune,3129,2815,Active,93,1,1
+ATM00824,Hadapsar,18.5089,73.9235,Mixed,Pune,735,2621,Active,118,1,1
+ATM08725,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,4315,Active,24,1,1
+ATM05327,Swargate,18.5018,73.8636,Commercial,Pune,0,3955,Active,6,1,1
+ATM06852,Kothrud,18.5074,73.8077,Residential,Pune,0,3067,Active,5,1,1
+ATM01417,Aundh,18.5579,73.8077,IT Hub,Pune,1699,2520,Active,69,1,1
+ATM03959,Kothrud,18.5074,73.8077,Residential,Pune,0,3874,Active,19,1,1
+ATM07394,Yerwada,18.5626,73.877,Mixed,Pune,1445,2865,Active,70,1,1
+ATM04142,Yerwada,18.5626,73.877,Residential,Pune,0,2083,Active,35,1,1
+ATM02120,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2962,Active,10,1,1
+ATM02360,Camp,18.5167,73.8567,Mixed,Pune,0,2455,Active,12,1,1
+ATM07716,Yerwada,18.5626,73.877,Residential,Pune,193,2491,Active,20,1,1
+ATM05417,Swargate,18.5018,73.8636,Commercial,Pune,3909,2277,Active,74,1,1
+ATM00207,Swargate,18.5018,73.8636,Mixed,Pune,134,2121,Active,26,1,1
+ATM08245,Viman Nagar,18.5679,73.9143,Residential,Pune,1692,4466,Active,142,1,1
+ATM05620,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3141,Active,55,1,1
+ATM08251,Camp,18.5167,73.8567,Commercial,Pune,0,3345,Active,0,1,1
+ATM03942,Kothrud,18.5074,73.8077,Mixed,Pune,0,2510,Active,0,1,1
+ATM01410,Baner,18.559,73.7862,Commercial,Pune,0,3762,Active,13,1,1
+ATM07834,Swargate,18.5018,73.8636,Commercial,Pune,0,2249,Active,6,1,1
+ATM08738,Baner,18.559,73.7862,Commercial,Pune,0,3315,Active,8,1,1
+ATM09864,Hadapsar,18.5089,73.9235,Mixed,Pune,1981,3373,Active,223,1,1
+ATM09404,Hadapsar,18.5089,73.9235,Mixed,Pune,256,2893,Active,17,0,1
+ATM01580,Hadapsar,18.5089,73.9235,Residential,Pune,981,2308,Active,215,1,1
+ATM05459,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,3014,Active,3,1,1
+ATM05630,Yerwada,18.5626,73.877,Commercial,Pune,295,2560,Active,5,0,1
+ATM07651,Hadapsar,18.5089,73.9235,Mixed,Pune,2266,2893,Active,60,0,1
+ATM07044,Swargate,18.5018,73.8636,Mixed,Pune,0,2682,Active,136,1,1
+ATM00407,Yerwada,18.5626,73.877,Mixed,Pune,0,2747,Active,31,1,1
+ATM01822,Swargate,18.5018,73.8636,Mixed,Pune,203,2629,Active,7,0,1
+ATM06210,Baner,18.559,73.7862,Commercial,Pune,0,3611,Active,5,1,1
+ATM01248,Kothrud,18.5074,73.8077,Commercial,Pune,0,2858,Active,3,1,1
+ATM01244,Hadapsar,18.5089,73.9235,Mixed,Pune,0,2739,Active,5,1,1
+ATM02321,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,2892,Active,32,1,1
+ATM08469,Baner,18.559,73.7862,Mixed,Pune,346,1633,Active,28,0,1
+ATM08752,Swargate,18.5018,73.8636,Commercial,Pune,806,4170,Active,27,0,1
+ATM01821,Kothrud,18.5074,73.8077,Commercial,Pune,0,3159,Active,54,1,1
+ATM01718,Hadapsar,18.5089,73.9235,Residential,Pune,0,3845,Active,63,1,1
+ATM08306,Hadapsar,18.5089,73.9235,Mixed,Pune,0,2459,Active,0,1,1
+ATM06316,Swargate,18.5018,73.8636,Mixed,Pune,222,2947,Active,86,1,1
+ATM06542,Hinjewadi,18.5911,73.7389,Commercial,Pune,302,3026,Active,115,1,1
+ATM09349,Baner,18.559,73.7862,Residential,Pune,0,2399,Active,19,1,1
+ATM02794,Camp,18.5167,73.8567,Commercial,Pune,0,3581,Active,46,1,1
+ATM01864,Baner,18.559,73.7862,Commercial,Pune,0,3447,Active,31,1,1
+ATM08934,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2073,Active,16,1,1
+ATM07695,Hinjewadi,18.5911,73.7389,Commercial,Pune,1069,2289,Active,91,1,1
+ATM07121,Aundh,18.5579,73.8077,Mixed,Pune,0,3223,Active,14,1,1
+ATM05380,Hinjewadi,18.5911,73.7389,Commercial,Pune,232,2611,Active,81,1,1
+ATM08772,Hinjewadi,18.5911,73.7389,Residential,Pune,125,3158,Active,40,1,1
+ATM00929,Kothrud,18.5074,73.8077,Commercial,Pune,1645,2313,Active,98,1,1
+ATM09564,Aundh,18.5579,73.8077,IT Hub,Pune,502,3534,Active,61,1,1
+ATM01213,Aundh,18.5579,73.8077,IT Hub,Pune,1453,3157,Active,50,0,1
+ATM03950,Swargate,18.5018,73.8636,Residential,Pune,223,3585,Active,13,0,1
+ATM08291,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2829,Active,10,1,1
+ATM04171,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3835,Active,6,1,1
+ATM06271,Aundh,18.5579,73.8077,Commercial,Pune,0,3245,Active,33,1,1
+ATM00530,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,1295,Active,16,1,1
+ATM08214,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2746,Active,66,1,1
+ATM04634,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,2816,Active,5,1,1
+ATM07853,Aundh,18.5579,73.8077,Commercial,Pune,357,4068,Active,3,0,1
+ATM09251,Yerwada,18.5626,73.877,Mixed,Pune,0,2504,Active,4,1,1
+ATM06740,Shivaji Nagar,18.53,73.85,Residential,Pune,312,2262,Active,44,0,1
+ATM04292,Swargate,18.5018,73.8636,Commercial,Pune,0,2614,Active,22,1,1
+ATM00470,Baner,18.559,73.7862,Residential,Pune,907,3798,Active,90,1,1
+ATM09108,Kothrud,18.5074,73.8077,Residential,Pune,0,2242,Active,9,1,1
+ATM00415,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,1575,Active,3,1,1
+ATM05336,Baner,18.559,73.7862,Mixed,Pune,2959,3183,Active,77,1,1
+ATM07679,Aundh,18.5579,73.8077,Mixed,Pune,4,3157,Active,23,1,1
+ATM05573,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3427,Active,128,1,1
+ATM02883,Kothrud,18.5074,73.8077,Residential,Pune,0,1143,Active,15,1,1
+ATM00308,Yerwada,18.5626,73.877,Residential,Pune,0,2668,Active,7,1,1
+ATM04919,Baner,18.559,73.7862,IT Hub,Pune,0,2196,Active,20,1,1
+ATM09085,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3682,Active,15,1,1
+ATM01088,Viman Nagar,18.5679,73.9143,Residential,Pune,2265,4225,Active,53,0,1
+ATM01266,Baner,18.559,73.7862,Mixed,Pune,0,3720,Active,30,1,1
+ATM00274,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3203,Active,62,1,1
+ATM01234,Baner,18.559,73.7862,Mixed,Pune,0,4151,Active,94,1,1
+ATM03951,Aundh,18.5579,73.8077,Commercial,Pune,49,3686,Active,52,1,1
+ATM03285,Hadapsar,18.5089,73.9235,Commercial,Pune,0,4198,Active,14,1,1
+ATM04438,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2768,Active,79,1,1
+ATM08252,Aundh,18.5579,73.8077,Mixed,Pune,578,2052,Active,85,1,1
+ATM09005,Baner,18.559,73.7862,Mixed,Pune,123,3388,Active,75,1,1
+ATM05626,Yerwada,18.5626,73.877,Mixed,Pune,60,2586,Active,27,1,1
+ATM06731,Hinjewadi,18.5911,73.7389,Commercial,Pune,2278,2477,Active,129,1,1
+ATM04991,Baner,18.559,73.7862,Residential,Pune,0,4180,Active,9,1,1
+ATM08295,Hadapsar,18.5089,73.9235,Residential,Pune,0,2600,Active,24,1,1
+ATM05530,Camp,18.5167,73.8567,IT Hub,Pune,1394,3297,Active,134,1,1
+ATM09764,Camp,18.5167,73.8567,Commercial,Pune,0,3125,Active,0,1,1
+ATM03321,Hinjewadi,18.5911,73.7389,Commercial,Pune,1457,2028,Active,104,1,1
+ATM01775,Aundh,18.5579,73.8077,Residential,Pune,0,2129,Active,7,1,1
+ATM09854,Baner,18.559,73.7862,Residential,Pune,2912,3326,Active,120,1,1
+ATM09315,Aundh,18.5579,73.8077,IT Hub,Pune,25,3498,Active,26,1,1
+ATM03490,Kothrud,18.5074,73.8077,Residential,Pune,0,2866,Active,17,1,1
+ATM01876,Baner,18.559,73.7862,Commercial,Pune,0,3556,Active,33,1,1
+ATM05901,Viman Nagar,18.5679,73.9143,Residential,Pune,0,3749,Active,2,1,1
+ATM00853,Aundh,18.5579,73.8077,Residential,Pune,10,2873,Active,18,1,1
+ATM00102,Viman Nagar,18.5679,73.9143,Commercial,Pune,335,2753,Active,10,0,1
+ATM07442,Swargate,18.5018,73.8636,IT Hub,Pune,1294,1965,Active,85,1,1
+ATM07826,Hadapsar,18.5089,73.9235,Commercial,Pune,130,2429,Active,32,1,1
+ATM02827,Yerwada,18.5626,73.877,Commercial,Pune,0,3057,Active,11,1,1
+ATM08053,Shivaji Nagar,18.53,73.85,Commercial,Pune,1553,2154,Active,61,1,1
+ATM04965,Yerwada,18.5626,73.877,Mixed,Pune,2777,3073,Active,62,1,1
+ATM06752,Hinjewadi,18.5911,73.7389,Mixed,Pune,777,2999,Active,82,1,1
+ATM08532,Hadapsar,18.5089,73.9235,Mixed,Pune,0,3030,Active,29,1,1
+ATM01394,Kothrud,18.5074,73.8077,Mixed,Pune,102,2593,Active,114,1,1
+ATM09626,Hinjewadi,18.5911,73.7389,IT Hub,Pune,474,3149,Active,67,1,1
+ATM00458,Kothrud,18.5074,73.8077,Mixed,Pune,0,2344,Active,2,1,1
+ATM08357,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,2606,Active,59,1,1
+ATM03910,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,4887,Active,2,1,1
+ATM03651,Camp,18.5167,73.8567,Residential,Pune,0,3957,Active,10,1,1
+ATM04073,Viman Nagar,18.5679,73.9143,Residential,Pune,0,2575,Active,16,1,1
+ATM05639,Aundh,18.5579,73.8077,Commercial,Pune,0,500,Active,33,1,1
+ATM00063,Aundh,18.5579,73.8077,Residential,Pune,0,1114,Active,0,1,1
+ATM02394,Camp,18.5167,73.8567,Mixed,Pune,0,4486,Active,14,1,1
+ATM01348,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3187,Active,61,1,1
+ATM03814,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,2220,Active,32,1,1
+ATM08028,Kothrud,18.5074,73.8077,Commercial,Pune,488,3084,Active,64,1,1
+ATM00427,Yerwada,18.5626,73.877,Mixed,Pune,0,3523,Active,27,1,1
+ATM02077,Yerwada,18.5626,73.877,Mixed,Pune,0,2887,Active,12,1,1
+ATM02358,Baner,18.559,73.7862,Mixed,Pune,3255,3899,Active,75,1,1
+ATM00239,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,2752,Active,50,1,1
+ATM09425,Yerwada,18.5626,73.877,IT Hub,Pune,0,3657,Active,33,1,1
+ATM01715,Hadapsar,18.5089,73.9235,Commercial,Pune,1369,2419,Active,61,1,1
+ATM09459,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,4310,Active,24,1,1
+ATM00910,Shivaji Nagar,18.53,73.85,Residential,Pune,0,1813,Active,5,1,1
+ATM05763,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,1496,Active,29,1,1
+ATM06762,Hadapsar,18.5089,73.9235,Mixed,Pune,102,3302,Active,72,1,1
+ATM09551,Aundh,18.5579,73.8077,Commercial,Pune,0,4093,Active,11,1,1
+ATM01985,Swargate,18.5018,73.8636,Commercial,Pune,0,3656,Active,0,1,1
+ATM05253,Swargate,18.5018,73.8636,Commercial,Pune,0,4170,Active,101,1,1
+ATM09418,Aundh,18.5579,73.8077,Residential,Pune,0,3998,Active,0,1,1
+ATM00414,Kothrud,18.5074,73.8077,Residential,Pune,0,2780,Active,17,1,1
+ATM08183,Baner,18.559,73.7862,Commercial,Pune,0,4072,Active,24,1,1
+ATM09020,Viman Nagar,18.5679,73.9143,IT Hub,Pune,331,1947,Active,46,0,1
+ATM06003,Viman Nagar,18.5679,73.9143,Residential,Pune,0,3323,Active,109,1,1
+ATM04425,Baner,18.559,73.7862,Mixed,Pune,0,734,Active,1,1,1
+ATM07040,Kothrud,18.5074,73.8077,Commercial,Pune,398,2211,Active,82,1,1
+ATM04110,Camp,18.5167,73.8567,IT Hub,Pune,0,3611,Active,33,1,1
+ATM05789,Hinjewadi,18.5911,73.7389,Mixed,Pune,1409,2801,Active,65,1,1
+ATM06214,Camp,18.5167,73.8567,Residential,Pune,0,2930,Active,72,1,1
+ATM02809,Aundh,18.5579,73.8077,Mixed,Pune,221,2699,Active,3,0,1
+ATM06063,Aundh,18.5579,73.8077,Mixed,Pune,0,2710,Active,88,1,1
+ATM09654,Camp,18.5167,73.8567,Residential,Pune,274,3986,Active,3,0,1
+ATM08330,Aundh,18.5579,73.8077,Residential,Pune,843,3154,Active,141,1,1
+ATM00147,Swargate,18.5018,73.8636,Residential,Pune,445,2930,Active,113,1,1
+ATM08518,Hadapsar,18.5089,73.9235,Commercial,Pune,0,2458,Active,36,1,1
+ATM04375,Baner,18.559,73.7862,IT Hub,Pune,0,3858,Active,5,1,1
+ATM04828,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2216,Active,7,1,1
+ATM08066,Aundh,18.5579,73.8077,Residential,Pune,0,3202,Active,4,1,1
+ATM02996,Baner,18.559,73.7862,Mixed,Pune,1742,3221,Active,91,1,1
+ATM04294,Hinjewadi,18.5911,73.7389,Mixed,Pune,273,3107,Active,33,0,1
+ATM06534,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,2710,Active,52,1,1
+ATM05657,Camp,18.5167,73.8567,Mixed,Pune,1547,4599,Active,76,1,1
+ATM06136,Yerwada,18.5626,73.877,Residential,Pune,0,3488,Active,12,1,1
+ATM04319,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3057,Active,47,1,1
+ATM06200,Hadapsar,18.5089,73.9235,Commercial,Pune,0,4507,Active,163,1,1
+ATM01320,Baner,18.559,73.7862,Commercial,Pune,0,1931,Active,37,1,1
+ATM03268,Baner,18.559,73.7862,Mixed,Pune,3510,3357,Active,99,1,1
+ATM00708,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3592,Active,21,1,1
+ATM03725,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2332,Active,9,1,1
+ATM02898,Hinjewadi,18.5911,73.7389,Residential,Pune,369,2132,Active,32,0,1
+ATM01831,Kothrud,18.5074,73.8077,Commercial,Pune,0,2052,Active,13,1,1
+ATM08633,Yerwada,18.5626,73.877,IT Hub,Pune,410,3717,Active,7,0,1
+ATM04737,Shivaji Nagar,18.53,73.85,IT Hub,Pune,367,3235,Active,30,0,1
+ATM08525,Baner,18.559,73.7862,Commercial,Pune,0,3468,Active,35,1,1
+ATM00958,Aundh,18.5579,73.8077,Residential,Pune,0,3592,Active,37,1,1
+ATM06540,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3053,Active,115,1,1
+ATM02954,Swargate,18.5018,73.8636,IT Hub,Pune,2563,3115,Active,84,1,1
+ATM09969,Swargate,18.5018,73.8636,IT Hub,Pune,473,2283,Active,39,0,1
+ATM03947,Camp,18.5167,73.8567,Residential,Pune,0,3997,Active,29,1,1
+ATM09421,Swargate,18.5018,73.8636,Residential,Pune,0,4340,Active,23,1,1
+ATM02884,Baner,18.559,73.7862,Residential,Pune,2955,2041,Active,118,1,1
+ATM01077,Camp,18.5167,73.8567,Mixed,Pune,0,3592,Active,5,1,1
+ATM05994,Yerwada,18.5626,73.877,IT Hub,Pune,0,2535,Active,9,1,1
+ATM03458,Baner,18.559,73.7862,Mixed,Pune,0,1288,Active,37,1,1
+ATM07601,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3918,Active,43,1,1
+ATM02894,Hinjewadi,18.5911,73.7389,Commercial,Pune,773,1578,Active,126,1,1
+ATM02668,Viman Nagar,18.5679,73.9143,Mixed,Pune,1957,4554,Active,118,1,1
+ATM06980,Kothrud,18.5074,73.8077,Residential,Pune,0,4334,Active,4,1,1
+ATM04124,Kothrud,18.5074,73.8077,IT Hub,Pune,190,1063,Active,1,1,1
+ATM03558,Hadapsar,18.5089,73.9235,Mixed,Pune,0,3441,Active,11,1,1
+ATM02611,Baner,18.559,73.7862,Mixed,Pune,0,3339,Active,21,1,1
+ATM03757,Yerwada,18.5626,73.877,IT Hub,Pune,843,500,Active,108,1,1
+ATM00636,Baner,18.559,73.7862,Mixed,Pune,3,3381,Active,14,1,1
+ATM05302,Yerwada,18.5626,73.877,IT Hub,Pune,2789,2232,Active,197,1,1
+ATM09891,Aundh,18.5579,73.8077,IT Hub,Pune,35,4039,Active,2,1,1
+ATM05690,Viman Nagar,18.5679,73.9143,Commercial,Pune,278,2723,Active,18,0,1
+ATM04526,Camp,18.5167,73.8567,Commercial,Pune,15,3545,Active,18,1,1
+ATM07266,Yerwada,18.5626,73.877,Commercial,Pune,0,3686,Active,1,1,1
+ATM07617,Baner,18.559,73.7862,Mixed,Pune,2596,2780,Active,70,1,1
+ATM03239,Kothrud,18.5074,73.8077,Mixed,Pune,0,3257,Active,1,1,1
+ATM08652,Kothrud,18.5074,73.8077,IT Hub,Pune,389,3789,Active,56,0,1
+ATM08897,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3941,Active,85,1,1
+ATM09187,Kothrud,18.5074,73.8077,IT Hub,Pune,0,2890,Active,43,1,1
+ATM00305,Shivaji Nagar,18.53,73.85,Mixed,Pune,67,3922,Active,2,1,1
+ATM03677,Yerwada,18.5626,73.877,Residential,Pune,0,3020,Active,15,1,1
+ATM08011,Aundh,18.5579,73.8077,Mixed,Pune,40,3798,Active,19,1,1
+ATM02772,Hinjewadi,18.5911,73.7389,Residential,Pune,148,2234,Active,2,1,1
+ATM08571,Hinjewadi,18.5911,73.7389,Mixed,Pune,466,4235,Active,40,0,1
+ATM00525,Hinjewadi,18.5911,73.7389,Residential,Pune,0,1460,Active,91,1,1
+ATM05114,Aundh,18.5579,73.8077,IT Hub,Pune,393,2204,Active,32,0,1
+ATM05805,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,1991,Active,29,1,1
+ATM06222,Hinjewadi,18.5911,73.7389,Residential,Pune,2350,2211,Active,98,1,1
+ATM03101,Kothrud,18.5074,73.8077,Residential,Pune,0,2992,Active,0,1,1
+ATM02574,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3102,Active,3,1,1
+ATM08377,Swargate,18.5018,73.8636,Residential,Pune,2877,3986,Active,134,1,1
+ATM00863,Yerwada,18.5626,73.877,Mixed,Pune,331,1404,Active,16,0,1
+ATM06776,Aundh,18.5579,73.8077,Residential,Pune,1208,4160,Active,75,1,1
+ATM00456,Yerwada,18.5626,73.877,Residential,Pune,0,2825,Active,28,1,1
+ATM03443,Viman Nagar,18.5679,73.9143,IT Hub,Pune,284,2742,Active,0,0,1
+ATM06182,Hadapsar,18.5089,73.9235,IT Hub,Pune,5163,3940,Active,124,1,1
+ATM07114,Swargate,18.5018,73.8636,Commercial,Pune,1363,3052,Active,74,1,1
+ATM04296,Aundh,18.5579,73.8077,Commercial,Pune,0,3235,Active,33,1,1
+ATM04518,Shivaji Nagar,18.53,73.85,Residential,Pune,246,4298,Active,6,0,1
+ATM00931,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2121,Active,39,1,1
+ATM08993,Viman Nagar,18.5679,73.9143,IT Hub,Pune,2777,4360,Active,97,1,1
+ATM03551,Hinjewadi,18.5911,73.7389,Residential,Pune,2370,2694,Active,64,1,1
+ATM01235,Camp,18.5167,73.8567,Commercial,Pune,0,1918,Active,30,1,1
+ATM09561,Viman Nagar,18.5679,73.9143,Mixed,Pune,713,3436,Active,71,1,1
+ATM04374,Hinjewadi,18.5911,73.7389,Residential,Pune,230,2665,Active,27,0,1
+ATM08396,Swargate,18.5018,73.8636,Residential,Pune,0,3261,Active,91,1,1
+ATM09697,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3874,Active,11,1,1
+ATM03634,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2667,Active,35,1,1
+ATM05720,Kothrud,18.5074,73.8077,Commercial,Pune,205,3681,Active,2,0,1
+ATM04549,Aundh,18.5579,73.8077,Mixed,Pune,339,4721,Active,6,0,1
+ATM09532,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3593,Active,13,1,1
+ATM09812,Hadapsar,18.5089,73.9235,Residential,Pune,1623,3563,Active,105,1,1
+ATM03124,Kothrud,18.5074,73.8077,IT Hub,Pune,145,2714,Active,5,1,1
+ATM06706,Shivaji Nagar,18.53,73.85,Residential,Pune,3044,1982,Active,77,1,1
+ATM09786,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3089,Active,43,1,1
+ATM06333,Swargate,18.5018,73.8636,IT Hub,Pune,0,2505,Active,23,1,1
+ATM09975,Yerwada,18.5626,73.877,Residential,Pune,205,2841,Active,21,0,1
+ATM09351,Hinjewadi,18.5911,73.7389,Mixed,Pune,651,3928,Active,54,0,1
+ATM06967,Aundh,18.5579,73.8077,IT Hub,Pune,0,3895,Active,30,1,1
+ATM02860,Viman Nagar,18.5679,73.9143,IT Hub,Pune,0,2654,Active,0,1,1
+ATM06583,Yerwada,18.5626,73.877,Commercial,Pune,0,2103,Active,10,1,1
+ATM09867,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,2990,Active,9,1,1
+ATM06568,Shivaji Nagar,18.53,73.85,Mixed,Pune,1257,3577,Active,72,1,1
+ATM08068,Kothrud,18.5074,73.8077,Mixed,Pune,0,2679,Active,21,1,1
+ATM02297,Yerwada,18.5626,73.877,Commercial,Pune,0,3199,Active,80,1,1
+ATM09119,Kothrud,18.5074,73.8077,Mixed,Pune,0,1054,Active,107,1,1
+ATM07294,Hadapsar,18.5089,73.9235,Mixed,Pune,0,2784,Active,45,1,1
+ATM05829,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2879,Active,2,1,1
+ATM07986,Kothrud,18.5074,73.8077,IT Hub,Pune,245,3715,Active,22,0,1
+ATM08903,Viman Nagar,18.5679,73.9143,Mixed,Pune,1080,2967,Active,116,1,1
+ATM09862,Viman Nagar,18.5679,73.9143,Commercial,Pune,928,3520,Active,116,1,1
+ATM09658,Baner,18.559,73.7862,Mixed,Pune,842,2037,Active,120,1,1
+ATM09929,Shivaji Nagar,18.53,73.85,Residential,Pune,2851,3294,Active,63,1,1
+ATM07104,Aundh,18.5579,73.8077,Commercial,Pune,0,2381,Active,217,1,1
+ATM08182,Hadapsar,18.5089,73.9235,Mixed,Pune,0,3055,Active,17,1,1
+ATM04754,Hadapsar,18.5089,73.9235,Residential,Pune,0,3608,Active,89,1,1
+ATM04005,Camp,18.5167,73.8567,Commercial,Pune,192,2458,Active,16,1,1
+ATM05292,Camp,18.5167,73.8567,Mixed,Pune,0,2439,Active,113,1,1
+ATM01247,Baner,18.559,73.7862,IT Hub,Pune,0,1400,Active,8,1,1
+ATM03583,Yerwada,18.5626,73.877,IT Hub,Pune,2442,1897,Active,101,1,1
+ATM08084,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,3802,Active,29,1,1
+ATM00713,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3237,Active,20,1,1
+ATM04862,Aundh,18.5579,73.8077,Mixed,Pune,1612,2640,Active,61,1,1
+ATM06747,Aundh,18.5579,73.8077,Commercial,Pune,0,2875,Active,0,1,1
+ATM04907,Baner,18.559,73.7862,Commercial,Pune,0,2794,Active,23,1,1
+ATM07534,Shivaji Nagar,18.53,73.85,Residential,Pune,0,2897,Active,58,1,1
+ATM09003,Camp,18.5167,73.8567,IT Hub,Pune,452,4249,Active,119,1,1
+ATM00061,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3340,Active,23,1,1
+ATM07281,Aundh,18.5579,73.8077,Residential,Pune,0,2937,Active,2,1,1
+ATM03499,Yerwada,18.5626,73.877,Commercial,Pune,0,1885,Active,95,1,1
+ATM00960,Aundh,18.5579,73.8077,Mixed,Pune,0,2687,Active,82,1,1
+ATM04337,Kothrud,18.5074,73.8077,IT Hub,Pune,0,3067,Active,40,1,1
+ATM02630,Yerwada,18.5626,73.877,Mixed,Pune,0,4201,Active,11,1,1
+ATM06370,Hadapsar,18.5089,73.9235,Commercial,Pune,0,3263,Active,57,1,1
+ATM09039,Hadapsar,18.5089,73.9235,Residential,Pune,0,2834,Active,9,1,1
+ATM01575,Camp,18.5167,73.8567,Residential,Pune,3755,3700,Active,97,1,1
+ATM07153,Kothrud,18.5074,73.8077,Commercial,Pune,0,3155,Active,69,1,1
+ATM07630,Shivaji Nagar,18.53,73.85,IT Hub,Pune,102,4369,Active,78,1,1
+ATM04874,Shivaji Nagar,18.53,73.85,Residential,Pune,0,4010,Active,15,1,1
+ATM09794,Kothrud,18.5074,73.8077,Residential,Pune,358,1714,Active,37,0,1
+ATM09883,Baner,18.559,73.7862,IT Hub,Pune,0,2992,Active,21,1,1
+ATM02567,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,3369,Active,0,1,1
+ATM04626,Hadapsar,18.5089,73.9235,IT Hub,Pune,0,3335,Active,4,1,1
+ATM08210,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,2878,Active,4,1,1
+ATM09571,Yerwada,18.5626,73.877,Mixed,Pune,2457,3023,Active,75,1,1
+ATM04392,Hadapsar,18.5089,73.9235,Residential,Pune,2122,2648,Active,85,1,1
+ATM09076,Camp,18.5167,73.8567,IT Hub,Pune,0,4106,Active,20,1,1
+ATM01337,Camp,18.5167,73.8567,Commercial,Pune,0,3603,Active,3,1,1
+ATM02902,Camp,18.5167,73.8567,Residential,Pune,0,2973,Active,15,1,1
+ATM04218,Aundh,18.5579,73.8077,Commercial,Pune,0,1242,Active,102,1,1
+ATM09246,Aundh,18.5579,73.8077,Commercial,Pune,297,2732,Active,13,0,1
+ATM09019,Aundh,18.5579,73.8077,IT Hub,Pune,0,3400,Active,16,1,1
+ATM02483,Hadapsar,18.5089,73.9235,Mixed,Pune,3779,2942,Active,64,1,1
+ATM09901,Viman Nagar,18.5679,73.9143,Residential,Pune,0,3330,Active,22,1,1
+ATM08093,Hinjewadi,18.5911,73.7389,Residential,Pune,0,2655,Active,79,1,1
+ATM04483,Camp,18.5167,73.8567,Mixed,Pune,157,2981,Active,5,1,1
+ATM02284,Hinjewadi,18.5911,73.7389,Commercial,Pune,3321,2516,Active,93,1,1
+ATM05919,Hadapsar,18.5089,73.9235,Residential,Pune,0,1654,Active,19,1,1
+ATM05592,Hadapsar,18.5089,73.9235,Mixed,Pune,0,2737,Active,13,1,1
+ATM04994,Camp,18.5167,73.8567,Residential,Pune,1089,4107,Active,90,1,1
+ATM05832,Kothrud,18.5074,73.8077,IT Hub,Pune,798,2370,Active,57,0,1
+ATM01682,Kothrud,18.5074,73.8077,Residential,Pune,0,4431,Active,31,1,1
+ATM06590,Hadapsar,18.5089,73.9235,Residential,Pune,175,2583,Active,100,1,1
+ATM00276,Aundh,18.5579,73.8077,Residential,Pune,0,3025,Active,80,1,1
+ATM05803,Aundh,18.5579,73.8077,IT Hub,Pune,975,2677,Active,90,1,1
+ATM01108,Baner,18.559,73.7862,IT Hub,Pune,0,3224,Active,80,1,1
+ATM07748,Viman Nagar,18.5679,73.9143,Mixed,Pune,289,3062,Active,3,0,1
+ATM05345,Yerwada,18.5626,73.877,Mixed,Pune,0,3374,Active,22,1,1
+ATM06775,Baner,18.559,73.7862,IT Hub,Pune,0,4564,Active,39,1,1
+ATM07135,Hinjewadi,18.5911,73.7389,Commercial,Pune,323,2415,Active,126,1,1
+ATM00354,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,3170,Active,52,1,1
+ATM03158,Yerwada,18.5626,73.877,IT Hub,Pune,0,4858,Active,10,1,1
+ATM06054,Aundh,18.5579,73.8077,Commercial,Pune,0,3658,Active,26,1,1
+ATM09769,Shivaji Nagar,18.53,73.85,Commercial,Pune,201,3702,Active,30,0,1
+ATM05522,Kothrud,18.5074,73.8077,Commercial,Pune,0,4342,Active,29,1,1
+ATM02717,Baner,18.559,73.7862,Residential,Pune,483,4537,Active,47,0,1
+ATM04506,Camp,18.5167,73.8567,IT Hub,Pune,0,3513,Active,28,1,1
+ATM06071,Camp,18.5167,73.8567,Mixed,Pune,2117,3479,Active,83,1,1
+ATM03401,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3308,Active,82,1,1
+ATM06656,Swargate,18.5018,73.8636,Mixed,Pune,0,3145,Active,24,1,1
+ATM03936,Hadapsar,18.5089,73.9235,Commercial,Pune,15,2428,Active,28,1,1
+ATM05054,Hinjewadi,18.5911,73.7389,Commercial,Pune,4,3043,Active,22,1,1
+ATM09647,Aundh,18.5579,73.8077,Residential,Pune,0,3537,Active,83,1,1
+ATM05280,Hadapsar,18.5089,73.9235,Commercial,Pune,616,4393,Active,39,0,1
+ATM08467,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,5237,Active,35,1,1
+ATM06674,Camp,18.5167,73.8567,Commercial,Pune,0,2994,Active,14,1,1
+ATM02981,Kothrud,18.5074,73.8077,Commercial,Pune,0,2777,Active,71,1,1
+ATM09189,Shivaji Nagar,18.53,73.85,IT Hub,Pune,283,2081,Active,67,1,1
+ATM05095,Shivaji Nagar,18.53,73.85,Residential,Pune,2035,2729,Active,80,1,1
+ATM01439,Swargate,18.5018,73.8636,Residential,Pune,0,2250,Active,38,1,1
+ATM06493,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,2710,Active,3,1,1
+ATM08682,Swargate,18.5018,73.8636,IT Hub,Pune,1068,3662,Active,94,1,1
+ATM06539,Kothrud,18.5074,73.8077,IT Hub,Pune,670,2640,Active,52,0,1
+ATM08828,Hadapsar,18.5089,73.9235,Commercial,Pune,192,3181,Active,27,1,1
+ATM02559,Aundh,18.5579,73.8077,IT Hub,Pune,0,4081,Active,5,1,1
+ATM06889,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,2453,Active,15,1,1
+ATM09285,Swargate,18.5018,73.8636,Mixed,Pune,0,3339,Active,29,1,1
+ATM06046,Hadapsar,18.5089,73.9235,Commercial,Pune,2411,2794,Active,101,1,1
+ATM04906,Baner,18.559,73.7862,IT Hub,Pune,0,4406,Active,31,1,1
+ATM00362,Swargate,18.5018,73.8636,IT Hub,Pune,26,2171,Active,18,1,1
+ATM03999,Baner,18.559,73.7862,Mixed,Pune,291,3244,Active,13,0,1
+ATM06060,Swargate,18.5018,73.8636,Mixed,Pune,0,4139,Active,24,1,1
+ATM02710,Aundh,18.5579,73.8077,IT Hub,Pune,0,2395,Active,16,1,1
+ATM01423,Aundh,18.5579,73.8077,Residential,Pune,0,3262,Active,26,1,1
+ATM04277,Hinjewadi,18.5911,73.7389,Residential,Pune,560,1825,Active,85,1,1
+ATM08882,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3232,Active,0,1,1
+ATM04872,Camp,18.5167,73.8567,Mixed,Pune,168,2457,Active,45,1,1
+ATM01923,Camp,18.5167,73.8567,Mixed,Pune,0,2579,Active,117,1,1
+ATM04674,Yerwada,18.5626,73.877,Residential,Pune,0,2226,Active,11,1,1
+ATM06536,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3297,Active,56,1,1
+ATM07093,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3776,Active,83,1,1
+ATM04539,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3158,Active,3,1,1
+ATM01513,Swargate,18.5018,73.8636,Residential,Pune,0,2030,Active,35,1,1
+ATM01560,Yerwada,18.5626,73.877,Commercial,Pune,0,3426,Active,30,1,1
+ATM04958,Kothrud,18.5074,73.8077,Mixed,Pune,0,2664,Active,19,1,1
+ATM00613,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,4186,Active,1,1,1
+ATM00097,Yerwada,18.5626,73.877,Commercial,Pune,0,3462,Active,7,1,1
+ATM08820,Baner,18.559,73.7862,Residential,Pune,1609,3772,Active,79,1,1
+ATM04513,Yerwada,18.5626,73.877,IT Hub,Pune,1416,4168,Active,75,1,1
+ATM04295,Swargate,18.5018,73.8636,Mixed,Pune,0,2754,Active,46,1,1
+ATM06864,Hadapsar,18.5089,73.9235,Commercial,Pune,432,1788,Active,97,1,1
+ATM09685,Hinjewadi,18.5911,73.7389,Residential,Pune,120,2920,Active,15,1,1
+ATM04984,Kothrud,18.5074,73.8077,IT Hub,Pune,0,1996,Active,57,1,1
+ATM02791,Camp,18.5167,73.8567,Residential,Pune,0,2042,Active,30,1,1
+ATM08665,Hinjewadi,18.5911,73.7389,Commercial,Pune,500,3591,Active,71,1,1
+ATM09279,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,2116,Active,40,1,1
+ATM06256,Yerwada,18.5626,73.877,IT Hub,Pune,0,1921,Active,20,1,1
+ATM05681,Aundh,18.5579,73.8077,Residential,Pune,0,3323,Active,13,1,1
+ATM08240,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3793,Active,1,1,1
+ATM03914,Kothrud,18.5074,73.8077,Mixed,Pune,0,4017,Active,77,1,1
+ATM05799,Yerwada,18.5626,73.877,Commercial,Pune,0,3943,Active,32,1,1
+ATM00528,Camp,18.5167,73.8567,Commercial,Pune,0,2329,Active,24,1,1
+ATM06672,Hadapsar,18.5089,73.9235,Commercial,Pune,1851,2637,Active,144,1,1
+ATM02987,Shivaji Nagar,18.53,73.85,Mixed,Pune,1099,3036,Active,62,1,1
+ATM02565,Yerwada,18.5626,73.877,Residential,Pune,199,3547,Active,13,1,1
+ATM08232,Swargate,18.5018,73.8636,Mixed,Pune,0,3938,Active,44,1,1
+ATM08418,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,3427,Active,119,1,1
+ATM00088,Baner,18.559,73.7862,Residential,Pune,0,2381,Active,5,1,1
+ATM07608,Aundh,18.5579,73.8077,Mixed,Pune,0,2378,Active,30,1,1
+ATM03112,Swargate,18.5018,73.8636,Residential,Pune,2680,2839,Active,122,1,1
+ATM02550,Camp,18.5167,73.8567,Commercial,Pune,309,2832,Active,24,0,1
+ATM09843,Camp,18.5167,73.8567,IT Hub,Pune,0,2163,Active,34,1,1
+ATM02693,Kothrud,18.5074,73.8077,Commercial,Pune,1393,1691,Active,111,1,1
+ATM00267,Viman Nagar,18.5679,73.9143,IT Hub,Pune,694,3340,Active,60,0,1
+ATM04123,Yerwada,18.5626,73.877,Residential,Pune,0,2045,Active,93,1,1
+ATM05659,Yerwada,18.5626,73.877,IT Hub,Pune,98,3194,Active,4,1,1
+ATM01653,Hinjewadi,18.5911,73.7389,Residential,Pune,0,3468,Active,0,1,1
+ATM06447,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,1946,Active,76,1,1
+ATM00149,Shivaji Nagar,18.53,73.85,Mixed,Pune,0,3536,Active,1,1,1
+ATM05492,Swargate,18.5018,73.8636,Commercial,Pune,0,2267,Active,34,1,1
+ATM08675,Kothrud,18.5074,73.8077,Residential,Pune,1416,3698,Active,69,1,1
+ATM08352,Hinjewadi,18.5911,73.7389,Residential,Pune,69,2140,Active,68,1,1
+ATM09312,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,3549,Active,35,1,1
+ATM02200,Aundh,18.5579,73.8077,Residential,Pune,2737,3071,Active,68,1,1
+ATM03870,Kothrud,18.5074,73.8077,Mixed,Pune,0,3584,Active,15,1,1
+ATM04697,Yerwada,18.5626,73.877,Mixed,Pune,0,3630,Active,1,1,1
+ATM07654,Aundh,18.5579,73.8077,Residential,Pune,0,3389,Active,46,1,1
+ATM00443,Viman Nagar,18.5679,73.9143,Residential,Pune,0,2328,Active,51,1,1
+ATM02899,Hadapsar,18.5089,73.9235,Commercial,Pune,2141,3327,Active,82,1,1
+ATM06719,Swargate,18.5018,73.8636,IT Hub,Pune,0,2909,Active,23,1,1
+ATM02820,Baner,18.559,73.7862,IT Hub,Pune,0,3839,Active,7,1,1
+ATM08994,Kothrud,18.5074,73.8077,Residential,Pune,272,1805,Active,6,0,1
+ATM03363,Yerwada,18.5626,73.877,IT Hub,Pune,0,2243,Active,68,1,1
+ATM08334,Viman Nagar,18.5679,73.9143,Residential,Pune,0,2987,Active,13,1,1
+ATM00788,Kothrud,18.5074,73.8077,Residential,Pune,0,4487,Active,0,1,1
+ATM03720,Hadapsar,18.5089,73.9235,IT Hub,Pune,3689,2952,Active,147,1,1
+ATM08446,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3066,Active,3,1,1
+ATM08858,Swargate,18.5018,73.8636,IT Hub,Pune,0,2819,Active,40,1,1
+ATM06874,Baner,18.559,73.7862,Mixed,Pune,0,2952,Active,1,1,1
+ATM00451,Kothrud,18.5074,73.8077,Residential,Pune,2127,2722,Active,91,1,1
+ATM08108,Baner,18.559,73.7862,IT Hub,Pune,0,2910,Active,73,1,1
+ATM08948,Shivaji Nagar,18.53,73.85,IT Hub,Pune,0,2351,Active,54,1,1
+ATM05206,Aundh,18.5579,73.8077,Mixed,Pune,0,3818,Active,42,1,1
+ATM00552,Shivaji Nagar,18.53,73.85,Mixed,Pune,181,2387,Active,0,1,1
+ATM07155,Aundh,18.5579,73.8077,Mixed,Pune,0,3137,Active,6,1,1
+ATM03217,Hinjewadi,18.5911,73.7389,IT Hub,Pune,0,3116,Active,7,1,1
+ATM08706,Kothrud,18.5074,73.8077,Residential,Pune,935,2664,Active,65,1,1
+ATM08415,Kothrud,18.5074,73.8077,Commercial,Pune,0,2194,Active,8,1,1
+ATM06869,Kothrud,18.5074,73.8077,IT Hub,Pune,0,2614,Active,23,1,1
+ATM04313,Swargate,18.5018,73.8636,Commercial,Pune,0,2749,Active,29,1,1
+ATM07513,Shivaji Nagar,18.53,73.85,Residential,Pune,0,3167,Active,13,1,1
+ATM00001,Aundh,18.5579,73.8077,Residential,Pune,117,2935,Active,26,1,1
+ATM07607,Shivaji Nagar,18.53,73.85,Residential,Pune,32,4415,Active,10,1,1
+ATM07164,Yerwada,18.5626,73.877,Commercial,Pune,0,3047,Active,59,1,1
+ATM02298,Viman Nagar,18.5679,73.9143,Commercial,Pune,0,2582,Active,69,1,1
+ATM03345,Aundh,18.5579,73.8077,Residential,Pune,0,3048,Active,8,1,1
+ATM01557,Aundh,18.5579,73.8077,Residential,Pune,0,3790,Active,17,1,1
+ATM04077,Kothrud,18.5074,73.8077,Residential,Pune,0,2983,Active,81,1,1
+ATM08941,Hinjewadi,18.5911,73.7389,Mixed,Pune,320,4174,Active,1,0,1
+ATM04998,Hinjewadi,18.5911,73.7389,Mixed,Pune,0,2624,Active,8,1,1
+ATM03147,Aundh,18.5579,73.8077,Residential,Pune,112,2845,Active,9,1,1
+ATM04908,Hinjewadi,18.5911,73.7389,IT Hub,Pune,1071,3037,Active,73,1,1
+ATM06743,Yerwada,18.5626,73.877,Residential,Pune,0,2379,Active,10,1,1
+ATM03597,Viman Nagar,18.5679,73.9143,Mixed,Pune,0,1135,Active,1,1,1
+ATM05463,Hinjewadi,18.5911,73.7389,Commercial,Pune,0,3070,Active,43,1,1
+ATM06948,Aundh,18.5579,73.8077,IT Hub,Pune,0,3413,Active,15,1,1
+ATM06486,Shivaji Nagar,18.53,73.85,Commercial,Pune,0,3208,Active,31,1,1
+ATM03665,Yerwada,18.5626,73.877,Residential,Pune,0,3665,Active,13,1,1
+ATM09016,Baner,18.559,73.7862,Mixed,Pune,0,3650,Active,28,1,1
+ATM09951,Yerwada,18.5626,73.877,Residential,Pune,32,3938,Active,26,1,1
+ATM01795,Shivaji Nagar,18.53,73.85,Commercial,Pune,405,3869,Active,128,1,1
+ATM02069,Camp,18.5167,73.8567,Commercial,Pune,0,2879,Active,1,1,1
+ATM07449,Hinjewadi,18.5911,73.7389,Commercial,Pune,73,4323,Active,123,1,1
+ATM04152,Camp,18.5167,73.8567,Mixed,Pune,0,2759,Active,10,1,1
+ATM08983,Kothrud,18.5074,73.8077,Mixed,Pune,0,3097,Active,7,1,1
+ATM05794,Kothrud,18.5074,73.8077,Residential,Pune,0,2831,Active,25,1,1
